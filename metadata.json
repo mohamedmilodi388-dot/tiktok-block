@@ -1,0 +1,5 @@
+{
+  "name": "LiveStream Report Assistant",
+  "description": "An AI-powered tool to generate formal moderation and takedown reports for TikTok live streams based on community guidelines.",
+  "requestFramePermissions": []
+}
